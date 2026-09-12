@@ -18,12 +18,14 @@ This repository is a collection of everything I learn during my M.Sc. program. M
 * SQL
 * Data Analytics
 * Statistics
+* Mathematics
+* Computer Networks & Architecture
 * Machine Learning
 * Course Assignments
 * Practice Programs
 * Mini Projects
 * Notes & Experiments
-* Mathematics
+
 
 As my coursework progresses, this repository will continue to grow with new topics, projects, and learning resources.
 
